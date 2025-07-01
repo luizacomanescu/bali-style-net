@@ -1,0 +1,4 @@
+venv/
+src/.ipynb_checkpoints/
+src/__pycache__/
+src/swin_model.pth
